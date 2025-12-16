@@ -24,7 +24,7 @@ I'm **Akinkunmi Afolabi** - GitHub Support Engineer passionate about helping dev
 ## 📫 How to reach me
 
 - GitHub: [@Kunmi477](https://github.com/Kunmi477)
-- 💼 Working at GitHub
+- 💼 Catch me if you can
 
 ## 🌍 Fun Facts
 
