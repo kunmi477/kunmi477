@@ -19,11 +19,11 @@ I'm **Akinkunmi Afolabi** - GitHub Support Engineer passionate about helping dev
 
 ## 📊 GitHub Stats
 
-![Kunmi477's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kunmi477&show_icons=true&theme=dark)
+![kunmi477's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunmi477&show_icons=true&theme=dark)
 
 ## 📫 How to reach me
 
-- GitHub: [@Kunmi477](https://github.com/Kunmi477)
+- GitHub: [@kunmi477](https://github.com/kunmi477)
 - 💼 Catch me if you can
 
 ## 🌍 Fun Facts
@@ -34,17 +34,17 @@ I'm **Akinkunmi Afolabi** - GitHub Support Engineer passionate about helping dev
 
 ---
 
-⭐️ From [Kunmi477](https://github.com/Kunmi477)
+⭐️ From [kunmi477](https://github.com/kunmi477)
 
 <!--
 **kunmi477/kunmi477** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
