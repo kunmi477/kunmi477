@@ -33,10 +33,6 @@ I'm **Akinkunmi Afolabi** - GitHub Support Engineer passionate about helping dev
 - I love clear blue skies and organized codebases
 - Always ready to help fellow developers
 
----
-
-⭐️ From [kunmi477](https://github.com/kunmi477)
-
 <!--
 **kunmi477/kunmi477** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
