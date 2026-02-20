@@ -18,10 +18,6 @@ I'm **Akinkunmi Afolabi** - GitHub Support Engineer passionate about helping dev
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-## 📊 GitHub Stats
-
-![kunmi477's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunmi477&show_icons=true&theme=dark)
-
 ## 📫 How to reach me
 
 - GitHub: [@kunmi477](https://github.com/kunmi477)
@@ -32,6 +28,7 @@ I'm **Akinkunmi Afolabi** - GitHub Support Engineer passionate about helping dev
 - My favorite thing to automate is tedious manual processes
 - I love clear blue skies and organized codebases
 - Always ready to help fellow developers
+- You can catch me playing chess on lichess @smith_1 or Kunmi477
 
 <!--
 **kunmi477/kunmi477** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
