@@ -1,3 +1,4 @@
+![Header](breakout-dark.svg)
 # Hi there 👋
 
 I'm **Akinkunmi Afolabi** - GitHub Support Engineer passionate about helping developers succeed.
